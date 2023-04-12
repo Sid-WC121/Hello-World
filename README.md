@@ -92,3 +92,7 @@ println("Hello World!")
 ```swift
 print("Hello World!")
 ```
+## Perl
+``` perl
+print "Hello World!";
+```
